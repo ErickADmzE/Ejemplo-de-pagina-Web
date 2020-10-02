@@ -1,0 +1,29 @@
+.One{
+    color: black;
+    font-size: 200%;
+    background: cyan;
+    margin: 2%;
+    text-align: center;
+    border-style: dotted;
+    border-width: 5px;
+    display: inline-block;
+    
+}
+.Two{
+    color: blue;
+
+}
+.Three {
+    text-align: center;
+    color: silver;
+    font-size: 300%;
+    text-decoration: none;
+    display: inline-block;
+    border-bottom: olive;
+    
+}
+.navion{
+background: red;
+display: flex;
+justify-content: space-around;
+}
